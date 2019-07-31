@@ -1,4 +1,4 @@
-# Live-Project-Example : Tree growth
+# p5-hosted-Example : Tree growth
 
 can we do this without git<br>
 update: we can!
