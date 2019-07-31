@@ -1,4 +1,4 @@
 # CS-Final-Project
 
-can we do this without git&nbsp;
-we can!
+can we do this without git<br\>
+update: we can!
