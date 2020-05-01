@@ -1,4 +1,4 @@
-# p5-hosted-Example : Tree growth
+# p5-hosted-Example : Tree growth / Pizza Daisy
 
 This was a project to show examples of made from scratch p5 art.
 
@@ -6,4 +6,4 @@ An interesting note: This git project was pushed, hosted, and edited to have mul
 
 
 ### p5 js canvas project
-#### kill tree not implemented
+ kill tree not implemented
